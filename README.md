@@ -2,7 +2,7 @@
 
 ## 1. Introdução
 
-O projeto contém **dois scripts** utilizados como exemplo na palestra [Introdução a Programação Assíncrona em PHP](https://speakerdeck.com/marcelgsantos/introducao-a-programacao-assincrona-em-php) que foi apresentada no [PHP Day Curitiba 2018](http://phpdaycuritiba.com.br) por mim, [Marcel dos Santos](https://twitter.com/marcelgsantos), para exemplificar as vantagens da **programação assíncrona** em relação a programação síncrona no contexto de um web scraper (ferramenta utilizada para coletar dados de sites de forma automatizada).
+O projeto contém **dois scripts** utilizados como exemplo na palestra [Introdução a Programação Assíncrona em PHP](https://speakerdeck.com/marcelgsantos/introducao-a-programacao-assincrona-em-php) que foi apresentada no [PHP Day Curitiba 2018](http://phpdaycuritiba.com.br) por mim, [Marcel dos Santos](https://twitter.com/marcelgsantos), para exemplificar as vantagens da **programação assíncrona** em relação a programação síncrona no contexto de um web scraper (ferramenta utilizada para coletar dados de sites de forma automatizada).
 
 Neste exemplo, implementei um web scraper que visita a página de um **perfil no SpeakerDeck** (https://speakerdeck.com/marcelgsantos), obtém os links dos slides, acessa cada um deles e extrai o **título**, **descrição**, **estrelas** e **visualizações**.
 
