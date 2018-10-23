@@ -10,7 +10,7 @@ O primeiro exemplo é implementado utilizando a extensão cURL e as requisiçõe
 
 O segundo exemplo é implementado utilizando a biblioteca [ReactPHP](http://reactphp.org) e as requisições são feitas de *forma concorrente* exemplificando a **abordagem assíncrona** em que não é necessário esperar uma instrução terminar para executar a próxima instrução. Isso é possível pois **operações de I/O** (que são custosas por natureza) são enfileiradas e, após terminarem, disparam um evento com o resultado da operação para que a execução seja concluída.
 
-Neste exemplo, a **abordagem assíncrona** possui um desempenho muito superior em relação a abordagem síncrona.
+Neste exemplo, a **abordagem assíncrona** possui um desempenho multo superior em relação a abordagem síncrona.
 
 ## 2. Instalação
 
